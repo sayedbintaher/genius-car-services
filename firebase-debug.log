@@ -1,0 +1,21 @@
+[debug] [2022-04-20T19:13:31.578Z] ----------------------------------------------------------------------
+[debug] [2022-04-20T19:13:31.580Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Sayed\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-20T19:13:31.580Z] CLI Version:   10.7.0
+[debug] [2022-04-20T19:13:31.580Z] Platform:      win32
+[debug] [2022-04-20T19:13:31.581Z] Node Version:  v16.14.2
+[debug] [2022-04-20T19:13:31.581Z] Time:          Thu Apr 21 2022 01:13:31 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-04-20T19:13:31.582Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-20T19:13:31.588Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-20T19:13:31.589Z] > authorizing via signed-in user (sayedbintaher@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Programming Hero\genius-car-services
+
